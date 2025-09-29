@@ -3,18 +3,18 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=EEDD
+ProjectName            :=Ejemplo13
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :=C:/Users/zerep/Documents/EEDD
-ProjectPath            :=C:/Users/zerep/Documents/EEDD/EEDD
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/EEDD
+ProjectPath            :=C:/Users/zerep/Documents/EEDD/Ejemplo13
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo13
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=zerep
-Date                   :=9/25/2025
+Date                   :=9/29/2025
 CodeLitePath           :="C:/Program Files/codelite-amd64-17.0.0/codelite"
 MakeDirCommand         :=mkdir
 LinkerName             :=g++
@@ -63,7 +63,7 @@ AS       := as
 ##
 ## User defined environment variables
 ##
-Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
+Objects0=$(IntermediateDirectory)/Persona.cpp$(ObjectSuffix) $(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
 
 
 
@@ -94,8 +94,13 @@ PreBuild:
 ##
 ## Objects
 ##
+$(IntermediateDirectory)/Persona.cpp$(ObjectSuffix): Persona.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/zerep/Documents/EEDD/Ejemplo13/Persona.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Persona.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/Persona.cpp$(PreprocessSuffix): Persona.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Persona.cpp$(PreprocessSuffix) Persona.cpp
+
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/zerep/Documents/EEDD/EEDD/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/zerep/Documents/EEDD/Ejemplo13/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

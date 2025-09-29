@@ -3,18 +3,18 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=EEDD
+ProjectName            :=Ejemplo11
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :=C:/Users/zerep/Documents/EEDD
-ProjectPath            :=C:/Users/zerep/Documents/EEDD/EEDD
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/EEDD
+ProjectPath            :=C:/Users/zerep/Documents/EEDD/Ejemplo11
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo11
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=zerep
-Date                   :=9/25/2025
+Date                   :=9/26/2025
 CodeLitePath           :="C:/Program Files/codelite-amd64-17.0.0/codelite"
 MakeDirCommand         :=mkdir
 LinkerName             :=g++
@@ -95,7 +95,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/zerep/Documents/EEDD/EEDD/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/zerep/Documents/EEDD/Ejemplo11/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 
