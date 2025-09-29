@@ -1,0 +1,109 @@
+[{
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo08\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo08",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo08\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo07",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo07\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo06",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo06\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo05",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo05\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo03",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo03\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo01",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo01\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo11\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo11",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo11\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo11\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\Cola.hpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\Cola.hpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\NodoCola.hpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\NodoCola.hpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\Cola.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\Cola.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\NodoCola.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\NodoCola.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_Cola1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\Pila.hpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\Pila.hpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\NodoPila.hpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\NodoPila.hpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\NodoPila.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\NodoPila.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\Pila.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\Pila.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13_extendido\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13\\Persona.hpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13\\Persona.hpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13\\Persona.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13\\Persona.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo12\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo12",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo12\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\paso_de_arg\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\paso_de_arg",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\paso_de_arg\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\paso_de_arg\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo02",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo02\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo04",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo04\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\ejemplo9\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\ejemplo9",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\ejemplo9\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\ejemplo9\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo10\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo10",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo10\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo10\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo09\\main.cpp",
+  "directory": "C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo09",
+  "command": "clang++ -c C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo09\\main.cpp -o C:\\Users\\zerep\\Documents\\EEDD\\Ejemplo09\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
