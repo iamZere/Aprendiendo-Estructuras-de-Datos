@@ -9,7 +9,7 @@
 <p align = "left">📚 Aquí se recogen los ejemplos y ejercicios realizados en la asignatura de Estructuras de Datos. <br> 📚 La asignatura se imparte en segunde de Ing. de Computadores en la UAH.</p>
 <br>
 
-<h2 align = "left"> Que hemos utilizado para aprender estructuras de Datos?🤔 </h2>
+<h2 align = "left"> Que hemos utilizado para aprender Estructuras de Datos?🤔 </h2>
  
 ###
 
