@@ -2,7 +2,7 @@
 
 ###
 
-<p align = "left">En este repositorio quedan visibles los ejemplos y ejercicios realizados en la asignatura de Estructuras de Datos del segundo curso de Ing. de Computadores de la Universidad de Alcalá de Henares (UAH)</p>
+<p align = "left">En este repositorio quedan visibles los ejemplos y ejercicios realizados en la asignatura de Estructuras de Datos del segundo curso de <br> Ing. de Computadores de la Universidad de Alcalá de Henares (UAH)</p>
 
 ###
 
